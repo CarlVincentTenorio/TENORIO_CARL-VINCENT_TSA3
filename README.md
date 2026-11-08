@@ -4,7 +4,7 @@ A Laravel application developed by **Carl Vincent Tenorio** for IT0049 Web Syste
 
 Repository: https://github.com/CarlVincentTenorio/TENORIO_CARL-VINCENT_TSA3
 
-**Hosted application:** Add your working public application URL here after deployment.
+**Hosted application:** [Tasks for Today](http://tenoriotsa3.infinityfree.io)
 
 ## Requirements
 
